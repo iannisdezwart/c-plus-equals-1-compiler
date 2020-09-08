@@ -1,3 +1,5 @@
+// This test program will fail to compile
+
 #include <iostream>
 using namespace std;
 
